@@ -1,0 +1,8 @@
+{
+  "total_pallet_events": 2,
+  "unique_pallets": 2,
+  "avg_dwell_sec": 1.958,
+  "max_dwell_sec": 2.292,
+  "min_dwell_sec": 1.625,
+  "throughput_pallets_per_hour": 1502.5
+}
