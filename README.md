@@ -2,7 +2,7 @@
 
 A computer vision system that tracks pallets at the end of a production line, recording when each pallet enters and leaves the staging zone. Built with [Roboflow](https://roboflow.com) Workflows, RF-DETR, and ByteTrack.
 
-![Pallet Accounting System Demo](output.gif)
+![Pallet Accounting System Demo](output.png)
 
 ## What It Does
 
@@ -21,12 +21,6 @@ Warehouse Analytics (warehouse_metrics.json + pallet_metrics.json)
        │
 Live Operator View (cv2.imshow)
 ```
-
-## Demo
-
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
-
-> Replace with your actual GitHub video link after uploading `output.mp4` to a GitHub issue or release.
 
 ## Workflow
 
