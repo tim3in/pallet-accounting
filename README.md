@@ -178,7 +178,7 @@ For edge deployment on NVIDIA Jetson, install Roboflow Inference locally and run
 
 For a full step-by-step tutorial covering dataset creation, model training, Workflow setup, deployment, and production tips, see the companion blog post:
 
-[![How to Build Automated Pallet Accounting at End-of-Line with Roboflow](pallet_accounting.png =400)](https://blog.roboflow.com/automated-pallet-accounting/)
+[<img src="pallet_accounting.png" width="400"/>](https://blog.roboflow.com/automated-pallet-accounting/)
 
 ## Built With
 
